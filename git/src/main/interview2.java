@@ -21,7 +21,7 @@ public class interview2{
 
 	public void small() {
 		int[] Ar = { 2, 3, 4, 99, 58, 93, 176 };
-
+System.out.println("wel come" );
 		int small = Ar[0];
 		int big = Ar[0];
 		for (int i = 0; i < Ar.length; i++) {
